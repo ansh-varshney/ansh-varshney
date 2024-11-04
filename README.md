@@ -1,7 +1,8 @@
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 <h1 align="center">Hi 👋, I'm Ansh Varshney</h1>
 <h3 align="center">Computer Science and Artificial Intelligence Junior @IIITD</h3>
-
-- 📫 How to reach me **ansh22083@iiitd.ac.in**
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966">
+- 📫 Reach me @ **ansh22083@iiitd.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
